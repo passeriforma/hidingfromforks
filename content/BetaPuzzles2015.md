@@ -19,4 +19,4 @@ This year, I wrote many, many puzzles for Beta, the CSE Student magazine run by 
 
 Bonus: There was a "best of" article published at the end of the year, and it was mine \*sniff\*. It was also one of the [most fun articles I've written so far](static/BestOf.pdf)!
 
-Looking forward to next year, when I can again dominate the uni newsletter, and ~~brainwash the masses~~ tell eveveryone about how wonderful everything is.
+Looking forward to next year, when I can again dominate the uni newsletter, and <s>brainwash the masses</s> tell eveveryone about how wonderful everything is.
