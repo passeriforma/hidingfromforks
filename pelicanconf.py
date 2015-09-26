@@ -21,6 +21,10 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+FEED_RSS = u'feed.rss.xml'
+FEED_RSS_ALL = u'all.rss.xml'
+FEED_ATOM = u'feed.atom.xml'
+FEED_ATOM_ALL = u'all.atom.xml'
 
 # Theme
 THEME = 'pelican-themes/built-texts'
@@ -28,6 +32,8 @@ THEME = 'pelican-themes/built-texts'
 # Dev settings
 DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_PATH = 'output'
+
+STATIC_PATHS = ['static']
 
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),
