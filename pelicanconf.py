@@ -4,7 +4,10 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Emily Olorin'
 SITENAME = u'HidingFromForks'
-SITEURL = ''
+#SITEURL = 'http://hidingfromforks.net'
+#FEED_DOMAIN = 'http://hidingfromforks.net'
+GITHUB_URL = 'https://github.com/RayneCatseye'
+
 
 PATH = 'content'
 
@@ -20,7 +23,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Theme
-THEME = "pelican-themes/dev-random"
+THEME = 'pelican-themes/built-texts'
+
+# Dev settings
+DELETE_OUTPUT_DIRECTORY = True
+OUTPUT_PATH = 'output'
 
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),

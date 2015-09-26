@@ -1,0 +1,5 @@
+
+*.pyc
+pelican-themes/*
+!pelican-themes/built-texts/*
+output/*
