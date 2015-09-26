@@ -11,5 +11,3 @@ All original content of the site, including text and images in the articles
 and pages, is licensed under the
 [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
-The sources include some plugins, each one should say which license it is
-released under.
