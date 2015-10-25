@@ -113,3 +113,4 @@ Ultimately, we need to stop obsessing over distributed systems and how they do o
 
 Even if we break the will of the machines with formal proofs, and restrictive protocols, and cryptography, we will never be able to put ourselves inside the computer. And as such, we will be left helpless and crying as the internet explodes and the computers decide that gossip was overrated after all.
 
+Note: This article was very much inspired by James Mickens, and I'd thoroughly recommend you go read everything he's ever written because it is fantastic.
