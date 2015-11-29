@@ -1,6 +1,6 @@
 Title: Beta Puzzles 2015
 Date: 2015-09-26
-Category: Puzzles
+Category: Beta
 Tags: computing, puzzles, beta, enrichment
 
 Sometimes, I do things. Sometimes this doing of things manifests itself in weird and wonderful ways, such as writing a myriad of puzzles all in one go, and foisting them on some poor, unsuspecting soul to deal with.
