@@ -1,7 +1,7 @@
-Title: Conferences for Fun and ?Profit
-Date: 2015-11-30
+Title: Summer Reading Program
+Date: 2015-12-18
 Category: Computing
-tags: enrichment, computing, culture, teaching, conference, APAC
+tags: enrichment, computing, culture, teaching
 
 One thing I see a fair amount in tech is a sort of myopia; focusing on the purely technical at the expense of broader reading. As well as this, there is enough breadth of expected knowledge in tech that it becomes difficult for newcomers to work out what information they should know, and where to get it. Beyond XKCD, books like Cryptonomicon are a mainstay of tech culture, and concepts like finite automata and Turing machines aren't introduced until further years, but crop up in the strangest of places. There isn't a course that can cover these concepts meaningfully off the bat, but books can be an efficient substitute. I've tried to compile a list that covers scifi/fantasy, tech history, as well as computational theory. I also included Godel Escher Bach because I'm a horrible person.
 
