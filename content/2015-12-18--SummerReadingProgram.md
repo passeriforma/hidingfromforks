@@ -8,6 +8,7 @@ One thing I see a fair amount in tech is a sort of myopia; focusing on the purel
 In an attempt to remedy both of these issues, I have been working on creating a "Summer Reading Program" at my university, the contents of which I thought I'd share with you all as well. Ideally, a contestant would read 4 or more books over the summer period, and receive the currency of the tech world; a commemorative tshirt.
 
 **Book List (in no particular order):**
+
 1. *Computational Fairy Tales* by Jeremy Kubica. - A romp through the principles of computational thinking, illustrating high-level computer science concepts, the motivation behind them, and their application via the medium of a fairy tale. "Bonkers, but very enjoyable."
 
 2. *Cryptonomicon* by Neal Stephenson. - Somewhere between WWII and the modern day lies the truth. Not for the faint of heart, this book teaches cryptography, history and interpersonal relations on the backdrop of war, business and politics. “War and Peace for nerds.”
