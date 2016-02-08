@@ -5,9 +5,7 @@ Tags: computing, conference, APAC, anthropology, lists
 
 This past week, I've been having a fantastic time not being at work, and playing at being a sponge to absorb as much information as possible at LCA2016. 
 
-[talk about what LCA is]
-
-At LCA, I made an attempt at live tweeting some of the events I went to (which was actually more fun than I thought!). I didn't think to do it for the first two days, so this "article" focuses disproportionately on the last two days. Oops? 
+LCA (also known as linux.conf.au) is the largest linux and open source conference in the APAC region. Its been a kind of fixture of the Australian Linux community since 1999, when it first made an appearance in the conference rotation. It's frequently technical, generally hilarious, and contains a wide variety of professionals, hobbyists and, occasionally, some students too. At LCA this year, I made an attempt at live tweeting some of the events I went to (which was actually more fun than I thought!). I didn't think to do it for the first two days, so this "article" focuses disproportionately on the last two days. Oops? 
 
 Thus, in lieu of giving you any real content, have some little sound bites, with associated talk links. Happy browsing!
 
